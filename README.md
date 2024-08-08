@@ -1,5 +1,13 @@
 #Sistema-Gestion-Pedidos-Restaurante-JavaFX
 
+## Descripción 📑
+
+[PDF Del Problema](https://github.com/Kamikazejar/Sistema-Gestion-Pedidos-Restaurante-JavaFX/blob/01e22b8e7bdbd3edda7edd18e62cbb20cf997761/assets/pdf/Lab%201%20algoritmos%20y%20estructuras.pdf)
+
+##UML
+
+![Interfaz](assets/img/UML.png)
+
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
@@ -28,7 +36,6 @@ y apretar el boton "Orden Lista"
 Apretar boton "Despachar" se cambiara a Ventana Despacho
 
 Al ingresar el id "2" 
-
 ![Interfaz](assets/img/cajero1.png)
 
 y apretar el boton "Entregado"
@@ -39,10 +46,6 @@ y apretar el boton "Entregado"
 Tiene bastantes validaciones una es como intentar entregar un pedido ya entregado
 
 ![Interfaz](assets/img/error1.png)
-
-## Descripción 📑
-
-[PDF Del Problema](https://github.com/Kamikazejar/Sistema-Gestion-Pedidos-Restaurante-JavaFX/blob/01e22b8e7bdbd3edda7edd18e62cbb20cf997761/assets/pdf/Lab%201%20algoritmos%20y%20estructuras.pdf)
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
